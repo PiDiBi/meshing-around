@@ -1,1 +1,0 @@
-currently operating under "Agile software development" aka rolling code; no major structure. meshing about .. get it..
